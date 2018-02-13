@@ -1,41 +1,16 @@
-Template
-========
+# rtd-markdown-practice
+quick test
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+## see 
+Sphinx Markdown sample
+======================
+This is a sample for markdown based sphinx project.
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Features
---------
-
-- Be awesome
-- Make things faster
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
+To test
 -------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+ * Clone this project
+ * Install [sphinx](http://sphinx-doc.org/)
+ * Install [sphinx bootstrap theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme): `pip install sphinx_bootstrap_theme`
+ * Install [pandoc](http://johnmacfarlane.net/pandoc/installing.html)
+ * Make some markdown files. see test.md and test2.md. (index.md has set auto generated.)
+ * Make HTML on project root directory. then HTML document will generated in `_build/html` directory. (with some auto generated HTML files)
