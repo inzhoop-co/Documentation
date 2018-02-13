@@ -1,5 +1,5 @@
 
-site_name: Markdown practice rtd
-repo_url: https://github.com/bewest/rtd-markdown-practice
+site_name: Inzhoop Docs
+repo_url: https://github.com/inzhoop-co/Documentation
 markdown_extensions: [meta, toc, tables, fenced_code]
 
